@@ -9,7 +9,7 @@
 - Spring Boot
 - Spring JPA
 - Spring Security
-- loombok
+- lombok
 
 #### Build Tool
 
